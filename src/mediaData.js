@@ -6,7 +6,7 @@ const mediaItems = [
     image:
       "bg-[url('assets/images/images-two/farmer-beneficiaries-occupy-capahi-land-in-sabang-bao-labrador.webp')]",
     imgUrl:
-      "assets/images/images-two/farmer-beneficiaries-occupy-capahi-land-in-sabang-bao-labrador.webp",
+      "../assets/images/images-two/farmer-beneficiaries-occupy-capahi-land-in-sabang-bao-labrador.webp",
   },
   {
     id: 2,
