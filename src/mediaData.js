@@ -1,3 +1,5 @@
+import img1 from "../src/assets/images/images-two/farmer-beneficiaries-occupy-capahi-land-in-sabang-bao-labrador.webp";
+
 const mediaItems = [
   {
     id: 1,
@@ -5,8 +7,7 @@ const mediaItems = [
     desc: "ORMOC City - DAR Leyte finally installed eight (8) agrarian reform beneficiaries in a total of 16.05 hectares land, composed of 3 lots located in Barangay Sabang Bao and Labrador. DAR Region 8 Directo...",
     image:
       "bg-[url('assets/images/images-two/farmer-beneficiaries-occupy-capahi-land-in-sabang-bao-labrador.webp')]",
-    imgUrl:
-      "../assets/images/images-two/farmer-beneficiaries-occupy-capahi-land-in-sabang-bao-labrador.webp",
+    imgUrl: img1,
   },
   {
     id: 2,
