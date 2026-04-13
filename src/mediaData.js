@@ -1,4 +1,4 @@
-import img1 from "../src/assets/images/images-two/farmer-beneficiaries-occupy-capahi-land-in-sabang-bao-labrador.webp";
+import img1 from "./assets/images/images-two/farmer-beneficiaries-occupy-capahi-land-in-sabang-bao-labrador.webp";
 
 const mediaItems = [
   {
