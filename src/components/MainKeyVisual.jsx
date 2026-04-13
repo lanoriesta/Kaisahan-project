@@ -35,7 +35,7 @@ const MainKeyVisual = () => {
                 <div className=" w-full">
                   <img
                     src={item.imgUrl}
-                    alt=""
+                    alt={item.title}
                     className="mkv h-50 w-full object-cover rounded-lg"
                   />
                 </div>
