@@ -6,7 +6,7 @@ const mediaItems = [
     image:
       "bg-[url('assets/images/images-two/farmer-beneficiaries-occupy-capahi-land-in-sabang-bao-labrador.webp')]",
     imgUrl:
-      "/assets/images/images-two/farmer-beneficiaries-occupy-capahi-land-in-sabang-bao-labrador.webp",
+      "assets/images/images-two/farmer-beneficiaries-occupy-capahi-land-in-sabang-bao-labrador.webp",
   },
   {
     id: 2,
@@ -16,7 +16,7 @@ const mediaItems = [
     image:
       "bg-[url('assets/images/images-two/kananga-farmers-cultivate-land-awarded-29-years-ago-for-the-first-time.webp')]",
     imgUrl:
-      "/assets/images/images-two/kananga-farmers-cultivate-land-awarded-29-years-ago-for-the-first-time.webp",
+      "assets/images/images-two/kananga-farmers-cultivate-land-awarded-29-years-ago-for-the-first-time.webp",
   },
   {
     id: 3,
@@ -25,7 +25,7 @@ const mediaItems = [
     image:
       "bg-[url('assets/images/images-two/leyte-farmers-gear-up-for-dost-evsu-mushroom-project.webp')]",
     imgUrl:
-      "/assets/images/images-two/leyte-farmers-gear-up-for-dost-evsu-mushroom-project.webp",
+      "assets/images/images-two/leyte-farmers-gear-up-for-dost-evsu-mushroom-project.webp",
   },
   {
     id: 4,
@@ -34,7 +34,7 @@ const mediaItems = [
     image:
       "bg-[url('assets/images/images-two/himamaylan-farmer-beneficiaries-receive-tongson-land.webp')]",
     imgUrl:
-      "/assets/images/images-two/himamaylan-farmer-beneficiaries-receive-tongson-land.webp",
+      "assets/images/images-two/himamaylan-farmer-beneficiaries-receive-tongson-land.webp",
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ const mediaItems = [
     desc: "The Department of Agrarian Reform (DAR) installed 30 agrarian reform beneficiaries (ARBs) last July 10, 2018, in a 6-hectare land in Brgy. Montebello, Kananga, Leyte. The 6-hectare is a portion of the...",
     image:
       "bg-[url('assets/images/images-two/montebello-farmers-reclaim-ar-land.webp')]",
-    imgUrl: "/assets/images/images-two/montebello-farmers-reclaim-ar-land.webp",
+    imgUrl: "assets/images/images-two/montebello-farmers-reclaim-ar-land.webp",
   },
   {
     id: 6,
@@ -52,7 +52,7 @@ const mediaItems = [
     image:
       "bg-[url('assets/images/images-two/protecting-farmers-from-disasters-getting-full-insurance-coverage-for-farmer-beneficiaries-1.webp')]",
     imgUrl:
-      "/assets/images/images-two/protecting-farmers-from-disasters-getting-full-insurance-coverage-for-farmer-beneficiaries-1.webp",
+      "assets/images/images-two/protecting-farmers-from-disasters-getting-full-insurance-coverage-for-farmer-beneficiaries-1.webp",
   },
 
   {
@@ -62,7 +62,7 @@ const mediaItems = [
     image:
       "bg-[url('assets/images/images-two/karapatan-sa-pagkain-ipaglaban-sa-halalan.webp')]",
     imgUrl:
-      "/assets/images/images-two/karapatan-sa-pagkain-ipaglaban-sa-halalan.webp",
+      "assets/images/images-two/karapatan-sa-pagkain-ipaglaban-sa-halalan.webp",
   },
   {
     id: 8,
@@ -72,7 +72,7 @@ const mediaItems = [
     image:
       "bg-[url('assets/images/images-two/statement-on-the-massacre-of-9-sugarcane-farmers-in-sagay-city-negros-occidental.webp')]",
     imgUrl:
-      "/assets/images/images-two/statement-on-the-massacre-of-9-sugarcane-farmers-in-sagay-city-negros-occidental.webp",
+      "assets/images/images-two/statement-on-the-massacre-of-9-sugarcane-farmers-in-sagay-city-negros-occidental.webp",
   },
   {
     id: 9,
@@ -80,7 +80,7 @@ const mediaItems = [
     desc: "Eleven (11) agrarian reform beneficiaries (ARBs) started cultivating a 13-hectare land during a peaceful installation activity led by the Department of Agrarian Reform (DAR) last January 25, 2019 in B...",
     image:
       "bg-[url('assets/images/images-two/dar-leyte-installs-juaton-farmers.webp')]",
-    imgUrl: "/assets/images/images-two/dar-leyte-installs-juaton-farmers.webp",
+    imgUrl: "assets/images/images-two/dar-leyte-installs-juaton-farmers.webp",
   },
   {
     id: 10,
@@ -89,7 +89,7 @@ const mediaItems = [
     image:
       "bg-[url('assets/images/images-two/statement-on-the-massacre-of-farmers-in-negros-oriental.webp')]",
     imgUrl:
-      "/assets/images/images-two/statement-on-the-massacre-of-farmers-in-negros-oriental.webp",
+      "assets/images/images-two/statement-on-the-massacre-of-farmers-in-negros-oriental.webp",
   },
   {
     id: 11,
@@ -99,7 +99,7 @@ const mediaItems = [
     image:
       "bg-[url('assets/images/images-two/ormoc-city-arbs-seek-peaceful-cultivation-months-after-installation.webp')]",
     imgUrl:
-      "/assets/images/images-two/ormoc-city-arbs-seek-peaceful-cultivation-months-after-installation.webp",
+      "assets/images/images-two/ormoc-city-arbs-seek-peaceful-cultivation-months-after-installation.webp",
   },
   {
     id: 12,
@@ -109,7 +109,7 @@ const mediaItems = [
     image:
       "bg-[url('assets/images/images-two/larrazabals-delay-sugarcane-harvest-of-agrarian-reform-beneficiaries.webp')]",
     imgUrl:
-      "/assets/images/images-two/larrazabals-delay-sugarcane-harvest-of-agrarian-reform-beneficiaries.webp",
+      "assets/images/images-two/larrazabals-delay-sugarcane-harvest-of-agrarian-reform-beneficiaries.webp",
   },
   {
     id: 13,
@@ -119,7 +119,7 @@ const mediaItems = [
     image:
       "bg-[url('assets/images/images-two/dar-negros-distributes-yusay-land-to-bago-farmers-despite-resistance.webp')]",
     imgUrl:
-      "/assets/images/images-two/dar-negros-distributes-yusay-land-to-bago-farmers-despite-resistance.webp",
+      "assets/images/images-two/dar-negros-distributes-yusay-land-to-bago-farmers-despite-resistance.webp",
   },
 ];
 

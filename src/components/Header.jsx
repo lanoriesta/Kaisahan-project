@@ -1,6 +1,6 @@
 /* eslint-disable react-hooks/immutability */
 /* eslint-disable no-unused-vars */
-import KaisahanLogo from "../assets/KAISAHAN Logo 1.png";
+import KaisahanLogo from "../assets/KAISAHAN-Logo-1.png";
 import FacebookIcon from "../assets/facebookIcon.png";
 import TwitterIcon from "../assets/twitterIcon.png";
 import LinkedInIcon from "../assets/linkedinIcon.png";
