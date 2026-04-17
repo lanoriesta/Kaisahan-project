@@ -28,7 +28,7 @@ const Header = () => {
     <div
       className={`w-full flex justify-center gap-2 md:py-3 p-3 fixed left-0 right-0 top-0 z-5 transition-all duration-300 transition-discrete ease-in-out ${onScroll ? "bg-white" : "bg-transparent"}`}
     >
-      <div className="basis-1/4 sm:basis-1/5 md:basis-1/9">
+      <div className="basis-1/4 sm:basis-1/5 md:basis-1/9 lg:basis-32.5">
         <img className="w-full" src={KaisahanLogo} alt="Kaisahan Logo" />
       </div>
       <div className="basis-auto flex flex-col justify-evenly">
@@ -69,7 +69,7 @@ const Header = () => {
           </div>
         </div>
         <div className="w-full hidden lg:inline">
-          <ul className=" w-full flex items-center text-sm gap-4 font-semibold">
+          <ul className="main-nav w-full flex items-center text-sm gap-4 font-semibold">
             <li>About Us</li>
             <li>Our Organization</li>
             <li>Program</li>

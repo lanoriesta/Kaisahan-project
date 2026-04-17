@@ -9,7 +9,7 @@ import LeftArrowIcon from "../assets/left-arrow.png";
 
 const MainKeyVisual = () => {
   return (
-    <div className="w-full mx-auto pt-30 lg:pt-50">
+    <div className="w-full mx-auto pt-30 lg:pt-45">
       <Swiper
         modules={[Navigation, Pagination, Autoplay]}
         spaceBetween={20}

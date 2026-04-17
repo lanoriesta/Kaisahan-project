@@ -64,3 +64,14 @@ body {
   mask-repeat: no-repeat !important;
   mask-size: 100% !important;
 }
+
+.main-nav > li {
+  text-decoration: none;
+  cursor: pointer;
+  transition: text-decoration 2s;
+}
+
+.main-nav > li:hover {
+  text-decoration: #126817 underline 2px;
+  text-underline-offset: 5px;
+}
